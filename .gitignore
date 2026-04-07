@@ -1,0 +1,7 @@
+data/raw/
+outputs/posteriors/
+__pycache__/
+.ipynb_checkpoints/
+*.nc
+*.pkl
+context.md

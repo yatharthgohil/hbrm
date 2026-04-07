@@ -1,0 +1,18 @@
+metric,value
+n_raw,100795
+n_after_resolved,76331
+removed_after_resolved,24464
+n_after_binary,23924
+removed_after_binary,52407
+n_after_volume,19683
+removed_after_volume,4241
+n_after_stuck,4655
+removed_after_stuck,15028
+n_after_lifetime,2408
+removed_after_lifetime,2247
+n_after_liquidity,2408
+removed_after_liquidity,0
+n_after_category,2385
+removed_after_category,23
+categories_removed,"{""olympics"": 10, ""art"": 5, ""nba playoffs"": 4, ""space"": 2, ""coronavirus-"": 1, ""tech"": 1}"
+categories_retained,"{""unknown"": 1249, ""crypto"": 221, ""us-current-affairs"": 215, ""sports"": 145, ""coronavirus"": 120, ""pop-culture"": 112, ""business"": 95, ""nfts"": 70, ""ukraine & russia"": 45, ""science"": 44, ""global politics"": 41, ""chess"": 28}"
